@@ -1,6 +1,3 @@
-# Linear Regression in R
-# https://www.scribbr.com/statistics/linear-regression-in-r/
-
 # install libraries
 install.packages("datarium")
 install.packages("ggplot2")
